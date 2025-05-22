@@ -50,3 +50,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rist98&color=dark)](https://velog.io/@rist98/posts)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=c6d1dd&height=100&section=footer)
