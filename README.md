@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=ㅎㅇ&fontSize=90&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c6d1dd&height=200&section=header&text=Here%20is-nl-🌟Littlestar's%20Home🌟&fontAlignY=30&fontSize=30&animation=twinkling)
