@@ -28,18 +28,14 @@
 
 <h3 align="center">🦝 Most Used Language 🦝</h3>
 <p align="center">
-  <a href="https://github.com/Littlestar0508">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Littlestar0508&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=Jupyter%20Notebook,Python" />
-  </a>
+  <img src="./metrics.languages.svg" alt="Most Used Languages" />
 </p>
 
 <br>
 
 <h3 align="center">🦊 Git Status 🦊</h3>
 <p align="center">
-  <a href="https://github.com/Littlestar0508">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Littlestar0508&hide=Jupyter%20Notebook,Python&hide_title=false&show_icons=true&include_all_commits=true&theme=nord" />
-  </a>
+  <img src="./metrics.stats.svg" alt="GitHub Stats" />
 </p>
 <br>
 
